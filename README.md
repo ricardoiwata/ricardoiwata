@@ -38,25 +38,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardoiwata&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoiwata&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ricardoiwata&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p>
