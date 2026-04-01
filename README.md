@@ -1,0 +1,68 @@
+<h1 align="center">Hey 👋, I'm Ricardo</h1>
+
+<p align="center">
+  💻 Fullstack Developer <br>
+  🚀 Passionate about building scalable web applications <br>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💼 Fullstack Developer working with modern web technologies  
+- ⚡ Focused on performance, scalability and clean architecture  
+- 🛠️ Always improving backend structure and frontend experience  
+- 📍 Based in Brazil  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css" />
+</p>
+
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardoiwata&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoiwata&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ricardoiwata&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/ricardoiwata">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
