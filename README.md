@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ricardo</h1>
 
 <p align="center">
-  💻 Fullstack Developer <br>
+  💻 Fullstack Software Engineer <br>
   🚀 Passionate about building scalable web applications <br>
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 💼 Fullstack Developer working with modern web technologies  
+- 💼 Fullstack Software Engineer working with modern web technologies  
 - ⚡ Focused on performance, scalability and clean architecture  
 - 🛠️ Always improving backend structure and frontend experience  
 - 📍 Based in Brazil  
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
-## 🌐 Connect with me
+## 🌐 Keep in touch
 
 <p>
   <a href="https://www.linkedin.com/in/ricardoiwata">
