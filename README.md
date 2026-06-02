@@ -25,7 +25,7 @@
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,c#,.net,python,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,c#,.net,py" />
 </p>
 
 ### 🗄️ Database
@@ -35,7 +35,7 @@
 
 ### 🛠️ Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ai,aws" />
 </p>
 
 ## 🌐 Keep in touch
